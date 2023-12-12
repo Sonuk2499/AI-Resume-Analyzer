@@ -1,12 +1,9 @@
-<p><small>Best View in <a href="https://github.com/settings/appearance">Light Mode</a> and Desktop Site (Recommended)</small></p><br/>
-
-
 
 <div align="center">
   <h1> AI RESUME ANALYZER </h1>
   <p>A Tool for Resume Analysis, Predictions and Recommendations</p>
  
-## Tech Stack 🍻
+## Tech Stack 
 <details>
   <summary>Frontend</summary>
   <ul>
@@ -50,9 +47,4 @@
 - <a href="https://github.com/OmkarPathak/pyresparser">pyresparser</a>
 
 
-
-!
-
-
-
-# AI RESUME ANALYZER 
+<p><small>Best View in <a href="https://github.com/settings/appearance">Light Mode</a> and Desktop Site (Recommended)</small></p><br/>
