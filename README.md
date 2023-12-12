@@ -8,9 +8,9 @@
   <summary>Frontend</summary>
   <ul>
     <li><a href="https://streamlit.io/">Streamlit</a></li>
-    <li><a href="https://developer.mozilla.org/en-US/docs/Learn/HTML">HTML</a></li>
-    <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a></li>
-    <li><a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript">JavaScript</a></li>
+    <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML">HTML</a></li>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a></li>
+    <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript">JavaScript</a></li>
   </ul>
 </details>
 
@@ -18,7 +18,7 @@
   <summary>Backend</summary>
   <ul>
     <li><a href="https://streamlit.io/">Streamlit</a></li>
-    <li><a href="https://www.python.org/">Python</a></li>
+    <a href="https://www.python.org/">Python</a></li>
   </ul>
 </details>
 
